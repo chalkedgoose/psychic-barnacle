@@ -1,0 +1,1 @@
+.ENV will be provided to contributing core members 
